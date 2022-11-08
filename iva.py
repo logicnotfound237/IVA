@@ -189,10 +189,6 @@ if __name__ == '__main__':
         if "can you calculate" in query:
             speak("well i am sorry the person who programed me is an idiot he did not programed me to do calculations")
 
-        if "reply to om" in query:
-            speak("nice work on that meem ")    
-            print("                               ")
-
         if "can you explain me what is debugging" in query:
             speak("its like being the detective in a crime movie where you are also the murderer")
 
